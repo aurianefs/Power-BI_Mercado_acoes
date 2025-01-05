@@ -56,7 +56,7 @@ A Narrativa Inteligente gerou os seguintes insights:
 
 ## Arquivo .pbix
 
-O arquivo `dashboard_analise_acoes.pbix` contém o projeto completo.
+O arquivo `Dashboard analítico do Mercado de ações - Narrativa Inteligente.pbix` contém o projeto completo.
 
 ## Como visualizar
 
